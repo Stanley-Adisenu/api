@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'jiji.wsgi.application'
 
 import dj_database_url
 DATABASES= {
-    'default':dj_database_url.parse('postgres://jiji_database_user:QEz6AqdE1vliJjupW5cEXYcv6jB7NnTW@dpg-cpk8cvsf7o1s73ckkk4g-a.oregon-postgres.render.com/jiji_database')
+    'default':dj_database_url.parse('postgres://thedatabase_user:9aZcJxGUHSOYOBSJrvomFry2Ea0B5BVM@dpg-cpo2llmehbks738gc5b0-a.oregon-postgres.render.com/thedatabase')
 }
 
 
