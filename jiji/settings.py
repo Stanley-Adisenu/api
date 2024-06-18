@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'jijiapp',
     'rest_framework',
     'corsheaders',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
